@@ -1,5 +1,7 @@
 # cam-fight
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/vergissberlin/cam-fight.svg)](https://greenkeeper.io/)
+
 > Make the best photos in your competitions
 
 ## Build Setup
